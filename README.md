@@ -3,6 +3,6 @@
 
 # Getting started
 1. Clone this repository.
-2. Import the `CodeTemplates` into [TestModeller.io](http://www.testmodeller.io).
+2. Import the `CodeTemplates` to Test Modeller following this [tutorial](https://curiositysoftware.ie/Resources/tutorials/ConfigureTMFramework.mp4)
 3. Import the page objects and code templates into the Framework
 4. Run the tests using the `robot [testname]` command
